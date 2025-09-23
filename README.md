@@ -5,7 +5,7 @@ ICS_4k3_2025_Grupo05
 │
 ├── Materiales
 │   ├── Bibliografia
-│   │   └── Tema_X
+│   │   └── Tema
 │   ├── Presentaciones
 │   ├── Templates
 │   └── Resumenes
@@ -13,9 +13,7 @@ ICS_4k3_2025_Grupo05
 ├── Practicos
 │   ├── TP_investigacion
 │   ├── TP_Evaluables
-│   │   └── TP_N
 │   └── TP_No_Evaluables
-│       └── N_Tema_X
 │
 └── Planificacion
 ```
@@ -51,8 +49,8 @@ Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_Investigacion/
 
 6.TP_Evaluables
 Tipo: Prácticos
-Regla de nombrado: Practico_N_Tema.pdf
-Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_Evaluables/TP_N/
+Regla de nombrado: Curso_Practico N_Tema_Grupo N_año.pdf
+Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_Evaluables/
 
 7.TP_No_Evaluables
 Tipo: Prácticos
@@ -60,7 +58,7 @@ Regla de nombrado: TP_N-Tema-NombreDelCaso.doc
 Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_No_Evaluables/
 
 8.Planificacion
-Tipo:
+Tipo: -
 Regla de nombrado: año_TipoMaterial_Ingeniería y Calidad de Software
 Ubicación: ICS_4k3_2025_Grupo05/Planificaión/
 
