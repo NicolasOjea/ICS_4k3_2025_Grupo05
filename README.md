@@ -70,7 +70,7 @@ Ubicación: ICS_4k3_2025_Grupo05/Planificaión/
 - N: número entero que representa el orden del trabajo práctico evaluable y del tema del trabajo práctico no evaluable.
 - Tipo_de_trabajo: tipo del TP de investigación (Póster Científico, Charla TED).
 - año: año corriente a la cursada.
-- TipoMaterial: indica el tipo de material (Planificación, Cronograma).
+- TipoMaterial: indica el tipo de material (Planificación, Cronograma 4K3).
 
 # Criterio de Línea Base
 
