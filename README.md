@@ -54,7 +54,7 @@ Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_Evaluables/
 
 7.TP_No_Evaluables
 Tipo: Prácticos
-Regla de nombrado: TP_N-Tema-NombreDelCaso.doc
+Regla de nombrado: TP_N-Tema-NombreDelCaso.docx
 Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_No_Evaluables/
 
 8.Planificacion
