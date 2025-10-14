@@ -58,7 +58,7 @@ Regla de nombrado: TP_N-Tema-NombreDelCaso.docx
 Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_No_Evaluables/
 
 8.Planificacion
-Tipo: -
+Tipo: Material
 Regla de nombrado: año_TipoMaterial_Ingeniería y Calidad de Software
 Ubicación: ICS_4k3_2025_Grupo05/Planificaión/
 
@@ -70,12 +70,11 @@ Ubicación: ICS_4k3_2025_Grupo05/Planificaión/
 - N: número entero que representa el orden del trabajo práctico evaluable y del tema del trabajo práctico no evaluable.
 - Tipo_de_trabajo: tipo del TP de investigación (Póster Científico, Charla TED).
 - año: año corriente a la cursada.
-- TipoMaterial: indica el tipo de material (Planificación, Cronograma 4K3).
+- TipoMaterial: indica el tipo de material de planificación (Planificación, Cronograma 4K3).
 
 # Criterio de Línea Base
 
-Marcaremos una línea base tras la entrega de cada parcial, con una ventana de 72 h para estabilizar y ordenar los distintos ítems de configuración.
-
+Marcaremos una línea base tras la entrega de cada parcial, con un rango de 72 hs (hasta 3 días después de la entrega) para estabilizar y ordenar los distintos ítems de configuración.
 
 
 
