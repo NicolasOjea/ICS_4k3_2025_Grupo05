@@ -5,7 +5,7 @@ ICS_4K3_2025_Grupo5/
 │
 ├── Material/
 │   ├── Bibliografia/
-│   │   └── Tema_X/
+│   │   └── Tema/
 │   ├── Presentaciones/
 │   ├── Templates/
 │   └── Resumenes/
@@ -15,7 +15,7 @@ ICS_4K3_2025_Grupo5/
 │   ├── TP_Evaluables/
 │   │   └── TP_N/
 │   └── TP_No_Evaluables/
-│       └── N_Tema_X/
+│       └── N_Tema/
 │
 └── Planificacion/
 ```
