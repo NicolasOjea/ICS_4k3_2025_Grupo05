@@ -1,24 +1,24 @@
 # Estructura de directorios
 
 ```
-ICS_4k3_2025_Grupo05
+ICS_4K3_2025_Grupo5/
 │
-├── Materiales
-│   ├── Bibliografia
-│   │   └── Tema
-│   ├── Presentaciones
-│   ├── Templates
-│   └── Resumenes
+├── Material/
+│   ├── Bibliografia/
+│   │   └── Tema_X/
+│   ├── Presentaciones/
+│   ├── Templates/
+│   └── Resumenes/
 │
-├── Practicos
-│   ├── TP_investigacion
-│   ├── TP_Evaluables
-│   └── TP_No_Evaluables
+├── Practicos/
+│   ├── TP_investigacion/
+│   ├── TP_Evaluables/
+│   │   └── TP_N/
+│   └── TP_No_Evaluables/
+│       └── N_Tema_X/
 │
-└── Planificacion
+└── Planificacion/
 ```
-
-
 
 # Ítems de Configuración
 
@@ -50,7 +50,7 @@ Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_Investigacion/
 6.TP_Evaluables
 Tipo: Prácticos
 Regla de nombrado: Curso_Practico N_Tema_Grupo N_año.pdf
-Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_Evaluables/
+Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_Evaluables/TP_N
 
 7.TP_No_Evaluables
 Tipo: Prácticos
