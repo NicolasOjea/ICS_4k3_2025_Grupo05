@@ -1,0 +1,24 @@
+:root{
+	--verde-1: #2f7a3e;
+	--verde-2: #7fb77e;
+	--tierra: #efe6d6;
+	--cielo: #cfeff6;
+}
+body {
+	background: linear-gradient(180deg, var(--cielo) 0%, #f6fbf6 100%);
+	font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+.navbar-brand { font-weight: 700; }
+.card { border-radius: 12px; box-shadow: 0 6px 18px rgba(47,122,62,0.08); }
+.btn-success { background: var(--verde-1); border-color: var(--verde-1); }
+#tickets-list { max-height: 200px; overflow:auto; }
+
+/* Fondo decorativo */
+body::before{
+	content: '';
+	position: fixed;
+	left: 0; top: 0; right: 0; bottom: 0;
+	background-image: radial-gradient(circle at 10% 10%, rgba(127,183,126,0.08), transparent 10%), url('');
+	pointer-events: none;
+}
+
